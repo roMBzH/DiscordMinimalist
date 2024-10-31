@@ -1,0 +1,63 @@
+/* --------------------- TITLE BAR --------------------- */
+.withFrame_a934d8 {
+    display: flex;
+    align-items: center;
+    height: 30px;
+    margin-top: 0px;
+    background: var(--primary_bg);
+}
+.wordmarkWindows_a934d8 {
+    padding: 4px 30px 3px;
+    top: 4px;
+    color: var(--white-color);
+}
+.wordmarkWindows_a934d8::before {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    padding: 4px 0px 3px;
+    width: 200px;
+    height: auto;
+    content: " | Minimalist";
+    top: 3px;
+    left: 86px;
+    color: var(--white-color);
+    font-family: var(--font-secondary);
+    font-size: 11px;
+}
+/* ALL TITLE BAR DEFAULT BUTTON */
+.winButton_a934d8 {
+    width: 10px;
+    height: 10px;
+    top: 0;
+    border-radius: var(--title_bar-button-radius);
+}
+/* TITLE BAR MINIMISE BUTTON */
+.winButtonMinMax_a934d8{
+    background-color: var(--title-bar-maximise-btn-color);
+}
+.winButtonMinMax_a934d8:hover{
+    background-color: var(--title-bar-maximise-btn-hover-color);
+}
+/* TITLE BAR MAXIMISE BUTTON */
+.winButtonMinMax_a934d8:last-child{
+    margin-right: 10px;
+    background-color: var(--title-bar-mimise-btn-color);
+}
+.winButtonMinMax_a934d8:last-child:hover{
+    background-color: var(--title-bar-mimise-btn-hover-color);
+}
+/* TITLE BAR CLOSE BUTTON */
+.winButtonClose_a934d8{
+    margin-left: 10px;
+    margin-right: 15px;
+    background-color: var(--title-bar-close-btn-color);
+}
+.winButtonClose_a934d8:hover{
+    background-color: var(--title-bar-close-btn-hover-color);
+}
+.winButtonClose_a934d8 svg,
+.winButtonMinMax_a934d8 svg{
+    display: none;
+}
+/* ----------------------------------------------------- */
