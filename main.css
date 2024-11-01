@@ -2,7 +2,19 @@
     --font-primary: 'Roboto', sans-serif;
     --font-secondary: 'Montserrat', sans-serif;
     --app-background-color: rgba(200, 31, 34, 1);
+
+    /* Title bar settings */
+    --title_bar-button-radius: 50%;
+    --title-bar-close-btn-color: rgba(255, 92, 86, 1);
+    --title-bar-close-btn-hover-color: rgba(226, 97, 97, 1);
+    --title-bar-mimise-btn-color: rgba(252, 188, 45, 1);
+    --title-bar-mimise-btn-hover-color: rgba(250, 195, 78, 1);
+    --title-bar-maximise-btn-color: rgba(42, 200, 65, 1);
+    --title-bar-maximise-btn-hover-color: rgb(78, 226, 100);
+
 }
+
+@import url('https://rombzh.github.io/DiscordMinimalist/src/title_bar.css');
 
 body, .bg_d4b6c5, .appMount_ea7e65 {
     background-color: var(--app-background-color) !important;
