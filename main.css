@@ -1,3 +1,7 @@
+body, .bg_d4b6c5, .appMount_ea7e65 {
+    background-color: var(--app-background-color) !important;
+}
+
 /* -------------- MAIN WINDOWS DISPOSITION ------------- */
 .container_a4d4d9{
     display: grid;
