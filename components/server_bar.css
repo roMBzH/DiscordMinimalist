@@ -4,7 +4,7 @@
     grid-row: 1;
     margin-bottom: 15px;
     padding: 10px 0px;
-    background-color: var(--server-bar-bg_color);
+    background-color: var(--server-bar-bg-color);
     border-radius: var(--server-bar-border-radius);
     transition: 0.2s all linear;
     width: 72px;
