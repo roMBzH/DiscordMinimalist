@@ -34,3 +34,26 @@
 .theme-dark .container_ee69e0 .iconContainer_d8bfb3 {
     display: none;
 }
+
+/* ----- CHANNEL BAR USER PANEL ----- */
+.theme-dark .container_b2ca13 {
+    background-color: rgba(43, 45, 49, 1);
+    border: 1px solid #353535;
+    border-radius: 8px;
+    color: #FFF;
+}
+/* ----------------------------------------------------- */
+
+/* ----- CHANNEL BAR USER OPTIONS ----- */
+.container_adcaac {
+    border-bottom: 0px solid var(--background-modifier-accent);
+    background-color: rgba(43, 45, 49, 1);
+    border: 1px solid #353535;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+.container_adcaac .actionButtons_adcaac button{
+    background-color: rgb(38, 95, 99);
+    color: #FFF;
+}
+/* ----------------------------------------------------- */
