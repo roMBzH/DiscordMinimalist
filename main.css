@@ -18,6 +18,21 @@
 }
 /* -------------------------------------------------------------------------------- */
 
-/*
-
+/** Changement de disposition en GRID pour crée de l'espacement entre la liste des Channels 
+* et le contenu de ceci.
 */
+.container_a4d4d9 .base_a4d4d9 .content_a4d4d9{
+    display: grid;
+    grid-template-columns: 250px 1fr;
+}
+.container_a4d4d9 .base_a4d4d9 .sidebar_a4d4d9{
+    grid-column: 1;
+    grid-row: 1;
+    background-color: transparent;
+    border-radius: 8px !important;
+    margin-bottom: 15px;
+}
+.container_a4d4d9 .base_a4d4d9{
+    grid-column: 3;
+    grid-row: 1;
+}
