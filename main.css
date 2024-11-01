@@ -5,7 +5,7 @@
 /* IMPORT ALL COMPONENTS */ 
 @import url('https://rombzh.github.io/DiscordMinimalist/src/title_bar.css');
 @import url('https://rombzh.github.io/DiscordMinimalist/src/server_toggle_bar.css');
-@import url('https://rombzh.github.io/DiscordMinimalist/src/server_bar.css.css');
+@import url('https://rombzh.github.io/DiscordMinimalist/src/server_bar.css');
 
 
 /** Changement de disposition de l'application en GRID pour pouvoir y ajouter le 
@@ -17,3 +17,7 @@
     transition: 0.2s all linear;
 }
 /* -------------------------------------------------------------------------------- */
+
+/*
+
+*/
