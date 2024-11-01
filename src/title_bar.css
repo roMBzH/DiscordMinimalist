@@ -21,7 +21,7 @@
     content: " | Minimalist";
     top: 3px;
     left: 86px;
-    color: var(--white-color);
+    color: var(--app-logo-color);
     font-family: var(--font-secondary);
     font-size: 11px;
 }
