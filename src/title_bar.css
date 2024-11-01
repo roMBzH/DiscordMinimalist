@@ -4,12 +4,12 @@
     align-items: center;
     height: 30px;
     margin-top: 0px;
-    background: var(--primary_bg);
+    background: tranparent;
 }
 .wordmarkWindows_a934d8 {
     padding: 4px 30px 3px;
     top: 4px;
-    color: var(--white-color);
+    color: var(--app-logo-color);
 }
 .wordmarkWindows_a934d8::before {
     position: absolute;
