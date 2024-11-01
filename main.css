@@ -14,8 +14,6 @@
 
 }
 
-@import url('https://rombzh.github.io/DiscordMinimalist/components/title_bar.css');
-
 body, .bg_d4b6c5, .appMount_ea7e65 {
     background-color: var(--app-background-color) !important;
 }
