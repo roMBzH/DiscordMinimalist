@@ -1,6 +1,10 @@
 
 /* IMPORT ALL COMPONENTS */ 
 @import url('https://rombzh.github.io/DiscordMinimalist/src/title_bar.css');
+@import url('https://rombzh.github.io/DiscordMinimalist/src/server_toggle_bar.css');
+@import url('https://rombzh.github.io/DiscordMinimalist/src/server_bar.css');
+@import url('https://rombzh.github.io/DiscordMinimalist/src/channel_bar.css');
+@import url('https://rombzh.github.io/DiscordMinimalist/src/chat.css');
 
 /** Changement de disposition de l'application en GRID pour pouvoir y ajouter le 
 * toggle bouton pour ouvrir la liste des serveurs
@@ -10,8 +14,7 @@
     grid-template-columns: 30px 82px 1fr;
     transition: 0.2s all linear;
 }
-@import url('https://rombzh.github.io/DiscordMinimalist/src/server_toggle_bar.css');
-@import url('https://rombzh.github.io/DiscordMinimalist/src/server_bar.css');
+
 /* -------------------------------------------------------------------------------- */
 
 .container_a4d4d9 .base_a4d4d9 .content_a4d4d9{
