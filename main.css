@@ -6,7 +6,7 @@
 @import url('https://rombzh.github.io/DiscordMinimalist/src/title_bar.css');
 @import url('https://rombzh.github.io/DiscordMinimalist/src/server_toggle_bar.css');
 @import url('https://rombzh.github.io/DiscordMinimalist/src/server_bar.css');
-
+@import url('https://rombzh.github.io/DiscordMinimalist/src/channel_bar.css');
 
 /** Changement de disposition de l'application en GRID pour pouvoir y ajouter le 
 * toggle bouton pour ouvrir la liste des serveurs

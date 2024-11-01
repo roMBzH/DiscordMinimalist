@@ -1,0 +1,36 @@
+/* -------------------- CHANNEL BAR -------------------- */
+.theme-dark .container_ee69e0 {
+    grid-column: 1;
+    grid-row: 1;
+    background-color: rgba(43, 45, 49, 1);
+    border: 1px solid #353535;
+    border-radius: 8px !important;
+    margin-bottom: 10px;
+    padding: 0px 0px 10px 0px;
+}
+.theme-dark .container_ee69e0 .icon_a08117 {
+    position: absolute;
+    left: 2px;
+    top: 5px;
+    width: 15px;
+    height: 15px;
+    color: #fff;
+}
+.theme-dark .container_ee69e0 .text_a5ad5c {
+    font-size: 13px;
+    font-family: var(--font-secondary);
+    color: #fff;
+    padding-left: 5px;
+}
+.theme-dark .container_ee69e0 .name_d8bfb3 {
+    font-size: 14px;
+}
+.theme-dark .container_ee69e0 .modeUnreadImportant_d8bfb3 .name_d8bfb3,
+.theme-dark .container_ee69e0 .modeSelected_d8bfb3 .name_d8bfb3,
+.theme-dark .container_ee69e0 .modeConnected_d8bfb3 .name_d8bfb3 {
+    font-size: 14px;
+    color: #ffffff;
+}
+.theme-dark .container_ee69e0 .iconContainer_d8bfb3 {
+    display: none;
+}
