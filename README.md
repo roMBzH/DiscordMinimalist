@@ -9,3 +9,7 @@ Apportez une touche de simplicité et d'élégance à votre expérience Discord 
 - [Utilisation](#utilisation)
 - [Contribuer](#contribuer)
 - [Licence](#licence)
+
+## Aperçu
+
+![Aperçu du thème minimaliste pour Discord](https://link-vers-votre-image.com/image.png)
