@@ -18,6 +18,7 @@ Apportez une touche de simplicité et d'élégance à votre expérience Discord 
 - Facile à personnaliser avec des variables CSS
 
 ## Installation
+- Installer BetterDiscord
 
 ## Utilisation
 Modifiez les valeurs des variables CSS dans `:root{}` pour ajuster les couleurs, et changez les polices en important celles de votre choix via Google Fonts.
