@@ -16,6 +16,7 @@ Apportez une touche de simplicité et d'élégance à votre expérience Discord 
 - Design épuré et sans distractions
 - Compatible avec les résolutions standard
 - Facile à personnaliser avec des variables CSS
+- Ajout d'un slider pour afficher / masquer la liste des serveurs
 
 ## Installation
 - Installer [BetterDiscord](https://betterdiscord.app/)
