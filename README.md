@@ -29,9 +29,9 @@ Apportez une touche de simplicité et d'élégance à votre expérience Discord 
 ## Utilisation
 Pour modifier le theme, il suffit d'éditer le fichier present a l'emplacement "\AppData\Roaming\BetterDiscord\Themes" avec n'importe qu'elle éditeur de texte.
 
-- Pour changer les poilices d'écriture il faut changer cette ligne de code.
-  - `@import url('')`
-  - Attention il se peu qu'il sois aussi necessaire de modifier les tailles de celle-ci pour ne pas avoir de problemes d'affichage.
+Pour changer les poilices d'écriture il faut changer cette ligne de code.
+- `@import url('')`
+- Attention il se peu qu'il sois aussi necessaire de modifier les tailles de celle-ci pour ne pas avoir de problemes d'affichage.
 
 Pour changer les couleurs du theme il faut modifier les valeurs des variables presente dans  `:root{]`.
 
