@@ -30,9 +30,9 @@ Pour modifier le theme, il suffit d'éditer le fichier present a l'emplacement "
 
 Pour changer les poilices d'écriture il faut changer cette ligne de code.
 - `@import url('URL_de_la_nouvelle_police')`
-- Note : Vous devrez peut-être ajuster la taille de la police pour un rendu optimal.
+- **Note : **Vous devrez peut-être ajuster la taille de la police pour un rendu optimal.
 
-Vous pouvez facilement ajuster les couleurs du thème en modifiant les valeurs des variables CSS dans la section `:root { ... ]`.
+Vous pouvez facilement ajuster les couleurs du thème en modifiant les valeurs des variables CSS dans la section `:root { ... }`.
 
 ## Contribuer 
 Les contributions sont les bienvenues ! Si vous souhaitez suggérer des améliorations ou corriger des bugs, n’hésitez pas à créer une pull request ou une issue.
