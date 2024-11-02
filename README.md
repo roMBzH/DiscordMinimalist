@@ -30,7 +30,7 @@ Apportez une touche de simplicité et d'élégance à votre expérience Discord 
 Pour modifier les couleurs du themes, il suffit d'éditer le fichier present a l'emplacement "\AppData\Roaming\BetterDiscord\Themes" avec n'importe qu'elle éditeur de texte.
 
 - Pour changer les poilices d'écriture il faut changer cette ligne de code.
-
+  
 `@import url('')`
 
 - Modifier les couleurs 
