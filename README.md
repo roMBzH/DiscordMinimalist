@@ -31,6 +31,8 @@ Pour modifier les couleurs du themes, il suffit d'éditer le fichier present a l
 
 - Modifier les polices d'écriture
 
+- Modifier les couleurs 
+
 ## Contribuer
 Les contributions sont les bienvenues ! Merci de consulter le fichier `CONTRIBUTING.md` pour en savoir plus.
 
