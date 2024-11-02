@@ -42,4 +42,3 @@ Ce thème est mis à disposition sous une licence libre. Vous êtes autorisé à
 
 ## Crédits 
 Merci à tous les contributeurs et utilisateurs de la communauté pour leurs retours et suggestions.
-rombzh
