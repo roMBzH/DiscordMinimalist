@@ -19,7 +19,12 @@ Apportez une touche de simplicité et d'élégance à votre expérience Discord 
 - Ajout d'un slider pour afficher / masquer la liste des serveurs
 
 ## Installation
-- Installer [BetterDiscord](https://betterdiscord.app/)
+- Installer [BetterDiscord](https://betterdiscord.app/) et relancer Discord
+- Aller dans le dossier "\AppData\Roaming\BetterDiscord"
+- Coller le ficiher de Themes dans le dossier Themes
+- Coller le fichier Plugin.js dans le dossier Plugins
+- Aller dans les options de Discord et dans le menu BETTERDISCORD
+- Activer le Themes et le Plugins
 
 ## Utilisation
 Modifiez les valeurs des variables CSS dans `:root{}` pour ajuster les couleurs, et changez les polices en important celles de votre choix via Google Fonts.
