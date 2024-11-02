@@ -35,9 +35,8 @@ Pour changer les poilices d'écriture il faut changer cette ligne de code.
 
 Pour changer les couleurs du theme il faut modifier les valeurs des variables presente dans  `:root{]`.
 
+## Crédits 
+- Developpeur
+  - romBzh
 
-## Contribuer
-Les contributions sont les bienvenues ! Merci de consulter le fichier `CONTRIBUTING.md` pour en savoir plus.
-
-## Licence
-Ce projet est sous licence libre de droits. Consultez le fichier `LICENSE` pour plus d’informations.
+- Tester
