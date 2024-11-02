@@ -27,7 +27,9 @@ Apportez une touche de simplicité et d'élégance à votre expérience Discord 
 - Activer le Themes et le Plugins
 
 ## Utilisation
-Modifiez les valeurs des variables CSS dans `:root{}` pour ajuster les couleurs, et changez les polices en important celles de votre choix via Google Fonts.
+Pour modifier les couleurs du themes, il suffit d'éditer le fichier present a l'emplacement "\AppData\Roaming\BetterDiscord\Themes" avec n'importe qu'elle éditeur de texte.
+
+- Modifier les polices d'écriture
 
 ## Contribuer
 Les contributions sont les bienvenues ! Merci de consulter le fichier `CONTRIBUTING.md` pour en savoir plus.
