@@ -35,7 +35,7 @@ Pour changer les poilices d'écriture il faut changer cette ligne de code.
 Vous pouvez facilement ajuster les couleurs du thème en modifiant les valeurs des variables CSS dans la section `:root { ... }`.
 
 ## Contribuer 
-Les contributions sont les bienvenues ! Pour toute suggestion d'amélioration ou signalement de bug, vous pouvez me contacter directement via Discord : romfsr.
+Les contributions sont les bienvenues ! Pour toute suggestion d'amélioration ou signalement de bug, vous pouvez me contacter directement via Discord : [romfsr](https://discord.gg/your-invite-link).
 
 ## Licence
 Ce thème est mis à disposition sous une licence libre. Vous êtes autorisé à l'utiliser, le modifier et le distribuer sans restriction, en gardant les crédits originaux.
