@@ -31,6 +31,7 @@ Pour modifier les couleurs du themes, il suffit d'éditer le fichier present a l
 
 - Pour changer les poilices d'écriture il faut changer cette ligne de code.
   - `@import url('')`
+  - Attention modifier les polices peu entrainer des soucis d'affichage, il se peu qu'il sois aussi necessaire de modifier les tailles de celle-ci.
 
 - Modifier les couleurs 
 
