@@ -1,0 +1,28 @@
+/* --------------------- SERVER BAR -------------------- */
+.container_a4d4d9 .guilds_a4d4d9{
+    grid-column: 2;
+    grid-row: 1;
+    margin-bottom: 15px;
+    padding: 10px 0px;
+    background-color: var(--server-bar-bg-color);
+    border-radius: var(--server-bar-border-radius);
+    transition: 0.2s all linear;
+    width: 72px;
+}
+.container_a4d4d9 .guilds_a4d4d9 .wrapper_c5f96a .icon_f90abb,
+.container_a4d4d9 .guilds_a4d4d9 .wrapper_c5f96a .childWrapper_f90abb {
+    width: 40px;
+    border-radius: 50%;
+    height: 40px;
+    transition: 0.1s all linear;
+}
+.container_a4d4d9 .guilds_a4d4d9 .wrapper_c5f96a:hover .icon_f90abb,
+.container_a4d4d9 .guilds_a4d4d9 .wrapper_c5f96a:hover .childWrapper_f90abb{
+    width: 45px;
+    height: 45px;
+}
+.container_a4d4d9 .guilds_a4d4d9 .footer_aa1bff, 
+.unreadMentionsFixedFooter_fea3ef {
+    display: none;
+}
+/* ----------------------------------------------------- */
