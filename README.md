@@ -10,8 +10,8 @@ Apportez une touche de simplicité et d'élégance à votre expérience Discord 
 - [Licence](#licence)
 
 ## Aperçu
-![Aperçu du thème minimaliste pour Discord](https://link-vers-votre-image.com/image.png)
-[Default Theme](https://sitechecker.pro/wp-content/uploads/2023/06/404-status-code.png)
+![Aperçu du thème minimaliste pour Discord](https://link-vers-votre-image.com/image.png).
+[Default Theme](https://sitechecker.pro/wp-content/uploads/2023/06/404-status-code.png).
 
 ## Fonctionnalités
 - Design épuré
