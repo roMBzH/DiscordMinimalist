@@ -1,7 +1,3 @@
-@import url('https://rombzh.github.io/DiscordMinimalist/main/components/title_bar.css');
-@import url('https://rombzh.github.io/DiscordMinimalist/main/components/server_toggle.css');
-@import url('https://rombzh.github.io/DiscordMinimalist/main/components/server_bar.css');
-
 :root{
     --font-primary: 'Roboto', sans-serif;
     --font-secondary: 'Montserrat', sans-serif;
