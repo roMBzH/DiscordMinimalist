@@ -39,3 +39,7 @@
     grid-row: 1;
 }
 /* ----------------------------------------------------- */
+
+body, .bg_d4b6c5, .appMount_ea7e65 {
+    background-color: var(--app-background-color) !important;
+}
