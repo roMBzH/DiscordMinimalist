@@ -20,8 +20,8 @@ Apportez une touche de simplicité et d'élégance à votre expérience Discord 
 ## Installation
 - Installer [BetterDiscord](https://betterdiscord.app/) et relancez Discord
 - Ouvrez le dossier `"\AppData\Roaming\BetterDiscord"`
-- Coller le ficiher `theme.css` dans le dossier Themes
-- Coller le fichier `plugin.js` dans le dossier Plugins
+- Coller le ficiher `minimalist_default.theme.css` dans le dossier Themes
+- Coller le fichier `minimalist.plugin.js` dans le dossier Plugins
 - Dans Discord, ouvrez les paramètres BetterDiscord et activez le thème et le plugin dans leurs sections respectives
 - Activer le Themes et le Plugins
 
