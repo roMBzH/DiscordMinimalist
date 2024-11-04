@@ -1,3 +1,7 @@
+@import url('https://rombzh.github.io/DiscordMinimalist/main/components/title_bar.css');
+@import url('https://rombzh.github.io/DiscordMinimalist/main/components/server_toggle.css');
+@import url('https://rombzh.github.io/DiscordMinimalist/main/components/server_bar.css');
+
 :root{
     --font-primary: 'Roboto', sans-serif;
     --font-secondary: 'Montserrat', sans-serif;
@@ -20,10 +24,6 @@
     --server-bar-border-radius: 8px;
 
 }
-
-@import url('https://rombzh.github.io/DiscordMinimalist/main/components/title_bar.css');
-@import url('https://rombzh.github.io/DiscordMinimalist/main/components/server_toggle.css');
-@import url('https://rombzh.github.io/DiscordMinimalist/main/components/server_bar.css');
 
 body, .bg_d4b6c5, .appMount_ea7e65 {
     background-color: var(--app-background-color) !important;
