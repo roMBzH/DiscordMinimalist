@@ -1,13 +1,16 @@
 @import url('https://rombzh.github.io/DiscordMinimalist/main/display.css');
+@import url('https://rombzh.github.io/DiscordMinimalist/main/custom.css');
 
 :root{
     --font-primary: 'Roboto', sans-serif;
     --font-secondary: 'Montserrat', sans-serif;
     --app-background-color: rgba(30, 31, 34, 1);
-    --transparent: rgba(0, 0, 0, 1);
+    --transparent: rgba(0, 0, 0, 0);
     --white-color: rgba(230, 230, 230, 1);
 
     /* Title bar settings */
+    --title-bar-background: rgba(0, 0, 0, 0);
+    --title-bar-text-color: rgba(230, 230, 230, 1);
     --title_bar-button-radius: 50%;
     --title-bar-close-btn-color: rgba(255, 92, 86, 1);
     --title-bar-close-btn-hover-color: rgba(226, 97, 97, 1);
@@ -16,10 +19,29 @@
     --title-bar-maximise-btn-color: rgba(42, 200, 65, 1);
     --title-bar-maximise-btn-hover-color: rgb(78, 226, 100);
 
-    /* Server bar toggle button settings */
+    /* Server bar & toggle button settings */
     --toggle-button-color: rgba(230, 230, 230, 1);
     --server-bar-bg-color: rgba(15, 15, 15, 1);
     --server-bar-border-radius: 8px;
+
+    /* Channel bar settings */
+    --channel-bar-background:rgba(43, 45, 49, 1);
+    --channel-bar-border: 1px solid #353535;
+    --channel-bar-border-radius: 8px !important;
+    --channel-chevron-color: rgba(230, 230, 230, 1);
+    --channel-categorie-text-color: rgba(230, 230, 230, 1);
+    --channel-selected-text-color: rgba(230, 230, 230, 1);
+
+    /* Channel bar user panel */
+    --user-panel-background:rgba(43, 45, 49, 1);
+    --user-panel-border: 1px solid #353535;
+    --user-panel-border-radius: 8px !important;
+
+    /* Vocal channel options */
+    --vocal-panel-background:rgba(43, 45, 49, 1);
+    --vocal-panel-border: 1px solid #353535;
+    --vocal-panel-border-radius: 8px !important;
+
 
 }
 
