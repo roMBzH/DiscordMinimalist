@@ -1,0 +1,241 @@
+/* ----------------------------------------------------- */
+/* --------------------- TITLE BAR --------------------- */
+.withFrame_a934d8 {
+    display: flex;
+    align-items: center;
+    height: 30px;
+    margin-top: 0px;
+    background: var(--title-bar-background);
+}
+.wordmarkWindows_a934d8 {
+    padding: 4px 30px 3px;
+    top: 4px;
+    color: var(--title-bar-text-color);
+}
+.wordmarkWindows_a934d8::before {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    padding: 4px 0px 3px;
+    width: 200px;
+    height: auto;
+    content: " | Minimalist";
+    top: 3px;
+    left: 86px;
+    color: var(--app-logo-color);
+    font-family: var(--font-secondary);
+    font-size: 11px;
+}
+.winButton_a934d8 {
+    width: 10px;
+    height: 10px;
+    top: 0;
+    border-radius: var(--title_bar-button-radius);
+}
+.winButtonMinMax_a934d8{
+    background-color: var(--title-bar-maximise-btn-color);
+}
+.winButtonMinMax_a934d8:hover{
+    background-color: var(--title-bar-maximise-btn-hover-color);
+}
+.winButtonMinMax_a934d8:last-child{
+    margin-right: 10px;
+    background-color: var(--title-bar-mimise-btn-color);
+}
+.winButtonMinMax_a934d8:last-child:hover{
+    background-color: var(--title-bar-mimise-btn-hover-color);
+}
+.winButtonClose_a934d8{
+    margin-left: 10px;
+    margin-right: 15px;
+    background-color: var(--title-bar-close-btn-color);
+}
+.winButtonClose_a934d8:hover{background-color: var(--title-bar-close-btn-hover-color);}
+.winButtonClose_a934d8 svg,
+.winButtonMinMax_a934d8 svg{
+    display: none;
+}
+/* ----------------------------------------------------- */
+/* ----------------------------------------------------- */
+
+/* ----------------------------------------------------- */
+/* ----------------- SERVER BAR TOGGLE ----------------- */
+.server-toggle-button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    padding: 0px 10px 0px 10px;
+}
+.server-toggle-button div:nth-child(1){
+    width: 50%;
+    height: 2px;
+    background-color: var(--toggle-button-color);
+    transition: 0.1s all linear;
+}
+.server-toggle-button div:nth-child(2){
+    width: 100%;
+    height: 2px;
+    margin:5px 0px;
+    background-color: var(--toggle-button-color);
+}
+.server-toggle-button div:nth-child(3){
+    width: 50%;
+    height: 2px;
+    background-color: var(--toggle-button-color);
+    transition: 0.1s all linear;
+}
+.server-toggle-button:hover{
+    cursor: pointer;
+}
+.server-toggle-button:hover div:nth-child(1),
+.server-toggle-button:hover div:nth-child(3) {
+    width: 100% !important;
+}
+/* ----------------------------------------------------- */
+/* ----------------------------------------------------- */
+
+/* ----------------------------------------------------- */
+/* --------------------- SERVER BAR -------------------- */
+.container_a4d4d9 .guilds_a4d4d9{
+    grid-column: 2;
+    grid-row: 1;
+    margin-bottom: 15px;
+    padding: 10px 0px;
+    background-color: var(--server-bar-bg-color);
+    border-radius: var(--server-bar-border-radius);
+    transition: 0.2s all linear;
+    width: 72px;
+}
+.container_a4d4d9 .guilds_a4d4d9 .wrapper_c5f96a .icon_f90abb,
+.container_a4d4d9 .guilds_a4d4d9 .wrapper_c5f96a .childWrapper_f90abb {
+    width: 40px;
+    border-radius: 50%;
+    height: 40px;
+    transition: 0.1s all linear;
+}
+.container_a4d4d9 .guilds_a4d4d9 .wrapper_c5f96a:hover .icon_f90abb,
+.container_a4d4d9 .guilds_a4d4d9 .wrapper_c5f96a:hover .childWrapper_f90abb{
+    width: 45px;
+    height: 45px;
+}
+.container_a4d4d9 .guilds_a4d4d9 .footer_aa1bff, 
+.unreadMentionsFixedFooter_fea3ef {
+    display: none;
+}
+/* ----------------------------------------------------- */
+/* ----------------------------------------------------- */
+
+/* ----------------------------------------------------- */
+/* -------------------- CHANNEL BAR -------------------- */
+.theme-dark .container_ee69e0 {
+    background-color: var(--channel-bar-background);
+    border: var(--channel-bar-border);
+    border-radius: var(--channel-bar-border-radius);
+    margin-bottom: 10px;
+    padding: 0px 0px 10px 0px;
+}
+.theme-dark .container_ee69e0 .icon_a08117 {
+    top: 5px;
+    width: 15px;
+    height: 15px;
+    color: var(--channel-chevron-color);
+}
+.theme-dark .container_ee69e0 .text_a5ad5c {
+    font-size: 13px;
+    font-family: var(--font-secondary);
+    color: var(--channel-categorie-text-color);
+    padding-left: 5px;
+}
+.theme-dark .container_ee69e0 .name_d8bfb3 {
+    font-size: 14px;
+}
+.theme-dark .container_ee69e0 .modeUnreadImportant_d8bfb3 .name_d8bfb3,
+.theme-dark .container_ee69e0 .modeSelected_d8bfb3 .name_d8bfb3,
+.theme-dark .container_ee69e0 .modeConnected_d8bfb3 .name_d8bfb3 {
+    font-size: 14px;
+    color: var(--channel-selected-text-color);
+}
+.theme-dark .container_ee69e0 .iconContainer_d8bfb3 {
+    display: none;
+}
+/* ----------------------------------------------------- */
+/* ----------------------------------------------------- */
+
+
+.panels_a4d4d9 {
+    background-color: var(--transparent);
+}
+/* ----------------------------------------------------- */
+/* -------------- CHANNEL BAR USER PANEL --------------- */
+.theme-dark .container_b2ca13 {
+    background-color: var(--user-panel-background);
+    border: var(--user-panel-border);
+    border-radius: var(--user-panel-border-radius);
+}
+/* ----------------------------------------------------- */
+/* ----------------------------------------------------- */
+
+/* ----------------------------------------------------- */
+/* -------------- CHANNEL BAR USER OPTIONS ------------- */
+.container_adcaac {
+    background-color: var(--vocal-panel-background);
+    border: var(--vocal-panel-border);
+    margin-bottom: 10px;
+    border-radius: var(--vocal-panel-border-radius);
+}
+/* ----------------------------------------------------- */
+/* ----------------------------------------------------- */
+
+
+
+/* ----- MESSAGE CONTAINER ----- */
+.container_a4d4d9 .base_a4d4d9 .content_a4d4d9 .chat_a7d72e {
+    background-color: transparent;
+}
+
+/* MESSAGE CONATAINER TOP BAR */
+.theme-dark .themed_fc4f04 {
+    border-radius: 8px;
+    background-color: rgba(43, 45, 49, 1);
+    border: 1px solid #353535;
+    margin-bottom: 10px;
+}
+
+
+/* CHAR BOX */
+.container_a4d4d9 .base_a4d4d9 .content_a4d4d9 .chat_a7d72e .chatContent_a7d72e {
+    margin-right: 10px;
+    border-radius: 8px;
+    padding: 10px 0 0 0;
+    background-image: 
+        linear-gradient(rgba(35, 36, 40, 0.9), rgba(35, 36, 40, 0.9)), /* Couche de superposition avec opacité */
+        url('https://rare-gallery.com/thumbs/959911-minimalism-simple-controllers-video-games-simple.png');
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #2d2d2d;
+}
+.content_a7d72e:before {
+    height: 0px;
+}
+
+
+/* MEMBERS BAR */
+.container_a4d4d9 .base_a4d4d9 .content_a4d4d9 .chat_a7d72e .container_cbd271 {
+    border-radius: 8px;
+    background-color: rgba(35, 36, 40, 1);
+}
+.members_cbd271 {
+    border-radius: 8px;
+    background-color: rgba(35, 36, 40, 1);
+    border: 1px solid #2d2d2d;
+}
+.members_cbd271 .membersGroup_cbd271 {
+    padding: 24px 8px 0 16px;
+    height: 40px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-content: center;
+}
