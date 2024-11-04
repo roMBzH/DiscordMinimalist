@@ -10,7 +10,8 @@ Apportez une touche de simplicité et d'élégance à votre expérience Discord 
 - [Licence](#licence)
 
 ## Aperçu
-- [Default Theme](https://sitechecker.pro/wp-content/uploads/2023/06/404-status-code.png)
+- [Default Theme](https://drive.google.com/file/d/15ox1mAd1_Kl270RxbLdDHzIJBoJfD42x/view?usp=drive_link)
+- https://drive.google.com/file/d/15ox1mAd1_Kl270RxbLdDHzIJBoJfD42x/view?usp=drive_link
 
 ## Fonctionnalités
 - Design épuré
