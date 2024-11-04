@@ -11,7 +11,6 @@ Apportez une touche de simplicité et d'élégance à votre expérience Discord 
 
 ## Aperçu
 - [Default Theme](https://drive.google.com/file/d/15ox1mAd1_Kl270RxbLdDHzIJBoJfD42x/view?usp=drive_link)
-- https://drive.google.com/file/d/15ox1mAd1_Kl270RxbLdDHzIJBoJfD42x/view?usp=drive_link
 
 ## Fonctionnalités
 - Design épuré
