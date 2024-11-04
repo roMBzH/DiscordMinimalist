@@ -1,6 +1,65 @@
 /**
-* @name Minimalist Default Theme
+* @name Discord Minimalist
 * @author roM
-* @description Describe
-* @version 1.0
+* @description 🔹Palette de couleurs sobres pour une ambiance douce et relaxante                                                                
+               🔹Typographie propre et modernisée pour une lisibilité optimale                                    
+               🔹Icônes redessinées et simplifiées, pour un look harmonieux                                      
+               🔹Espacement optimisé pour un affichage bien aéré et organisé                                     
+               🔹Personnalisation des rôles et canaux pour une navigation intuitive                                 
+* @version 0.0.1
+* @source https://github.com/roMBzH/DiscordMinimalist
 */
+
+/* ------------------- FONTS IMPORT -------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+/* ----------------------------------------------------- */
+
+/* IMPORT CUSTOM CSS */
+@import url('https://rombzh.github.io/DiscordMinimalist/main/display.css');
+@import url('https://rombzh.github.io/DiscordMinimalist/main/custom.css');
+
+:root{
+    --font-primary: 'Roboto', sans-serif;
+    --font-secondary: 'Montserrat', sans-serif;
+    --app-background-color: rgba(30, 31, 34, 1);
+    --transparent: rgba(0, 0, 0, 0);
+    --white-color: rgba(230, 230, 230, 1);
+
+    /* Title bar settings */
+    --title-bar-background: rgba(0, 0, 0, 0);
+    --title-bar-text-color: rgba(230, 230, 230, 1);
+    --title_bar-button-radius: 50%;
+    --title-bar-close-btn-color: rgba(255, 92, 86, 1);
+    --title-bar-close-btn-hover-color: rgba(226, 97, 97, 1);
+    --title-bar-mimise-btn-color: rgba(252, 188, 45, 1);
+    --title-bar-mimise-btn-hover-color: rgba(250, 195, 78, 1);
+    --title-bar-maximise-btn-color: rgba(42, 200, 65, 1);
+    --title-bar-maximise-btn-hover-color: rgb(78, 226, 100);
+
+    /* Server bar & toggle button settings */
+    --toggle-button-color: rgba(230, 230, 230, 1);
+    --server-bar-bg-color: rgba(15, 15, 15, 1);
+    --server-bar-border-radius: 8px;
+
+    /* Channel bar settings */
+    --channel-bar-background:rgba(43, 45, 49, 1);
+    --channel-bar-border: 1px solid #353535;
+    --channel-bar-border-radius: 8px !important;
+    --channel-chevron-color: rgba(230, 230, 230, 1);
+    --channel-categorie-text-color: rgba(230, 230, 230, 1);
+    --channel-selected-text-color: rgba(230, 230, 230, 1);
+
+    /* Channel bar user panel */
+    --user-panel-background:rgba(43, 45, 49, 1);
+    --user-panel-border: 1px solid #353535;
+    --user-panel-border-radius: 8px !important;
+
+    /* Vocal channel options */
+    --vocal-panel-background:rgba(43, 45, 49, 1);
+    --vocal-panel-border: 1px solid #353535;
+    --vocal-panel-border-radius: 8px !important;
+
+}
+
+
+
